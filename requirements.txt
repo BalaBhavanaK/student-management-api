@@ -3,4 +3,3 @@ pydantic
 pymongo
 python-dotenv
 bson
-uvicorn
