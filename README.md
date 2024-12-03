@@ -11,7 +11,8 @@ This project provides a backend API to manage student-related data efficiently. 
 ---
 
 ## Technologies Used
-- **Database**: MongoDB (Cloud Cluster)
+- **Framework**: FastAPI
+- **Database**: MongoDB 
 - **Deployment Platform**: Render
 - **API Documentation**: Swagger UI
 
